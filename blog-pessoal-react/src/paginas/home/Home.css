@@ -1,0 +1,36 @@
+
+
+.fonte {
+    color: blue;
+    font-size: 50px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family= Rubik+Glitch & display = swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Rubik+Glitch&display=swap');
+
+.jogos{
+    color: black;
+    font-size: 60px;
+    font-family: 'Dancing Script', cursive;
+      
+}
+.filme {
+    color: crimson;
+    font-size: 30px;
+    font-family: 'Rubik Glitch', cursive;
+}
+
+.livro {
+    color: cornflowerblue;
+    font-size: 30px;
+    font-family: 'Rubik Glitch', cursive;
+}
+
+.tipo {
+    color: goldenrod;
+    font-style: italic;
+}
+.fundo{
+   
+    background-color: forestgreen;
+}
